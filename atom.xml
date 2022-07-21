@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yuyue31/yuyue31.github.io.git</id>
     <title>小刻的家</title>
-    <updated>2022-07-21T12:25:55.137Z</updated>
+    <updated>2022-07-21T16:01:17.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/yuyue31/yuyue31.github.io.git"/>
     <link rel="self" href="https://github.com/yuyue31/yuyue31.github.io.git/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://github.com/yuyue31/yuyue31.github.io.git/images/avatar.png</logo>
     <icon>https://github.com/yuyue31/yuyue31.github.io.git/favicon.ico</icon>
     <rights>All rights reserved 2022, 小刻的家</rights>
+    <entry>
+        <title type="html"><![CDATA[娱乐功能]]></title>
+        <id>https://github.com/yuyue31/yuyue31.github.io.git/post/yu-le-gong-neng/</id>
+        <link href="https://github.com/yuyue31/yuyue31.github.io.git/post/yu-le-gong-neng/">
+        </link>
+        <updated>2022-07-21T15:19:30.000Z</updated>
+        <content type="html"><![CDATA[<p>1.五子棋🎮</p>
+<p>2.方舟的文字抽卡🎫</p>
+<p>3.干员养成🏵</p>
+<p>4.猜干员👯</p>
+<p>5.俄罗斯转盘🔫</p>
+<p>6.干员大乱斗⏱</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hello world-0.02内测版本]]></title>
         <id>https://github.com/yuyue31/yuyue31.github.io.git/post/hello-world-002-nei-ce-ban-ben/</id>
