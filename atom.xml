@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/yuyue31/Ceobe</id>
+    <title>小刻的家</title>
+    <updated>2022-07-21T05:22:42.976Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/yuyue31/Ceobe"/>
+    <link rel="self" href="https://github.com/yuyue31/Ceobe/atom.xml"/>
+    <subtitle>我要吃蜜饼zzz</subtitle>
+    <logo>https://github.com/yuyue31/Ceobe/images/avatar.png</logo>
+    <icon>https://github.com/yuyue31/Ceobe/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小刻的家</rights>
+    <entry>
+        <title type="html"><![CDATA[hello world-0.02内侧版本]]></title>
+        <id>https://github.com/yuyue31/Ceobe/post/hello-world-002-nei-ce-ban-ben/</id>
+        <link href="https://github.com/yuyue31/Ceobe/post/hello-world-002-nei-ce-ban-ben/">
+        </link>
+        <updated>2022-07-21T04:54:53.000Z</updated>
+        <content type="html"><![CDATA[<p>对于第一次用qrspeed写明日方舟机器人还是很陌生的，很多东西都不如大佬🙏🙏🙏<br>
+现在还是0.0.2内测版本，对于很多的细节和bug还在完善和修复✏️<br>
+我会尽我所能写出稍微能玩的机器人的<br>
+附上一些写的东西<br>
+<img src="https://github.com/yuyue31/Ceobe/post-images/1658379712690.png" alt="" loading="lazy"><br>
+<img src="https://github.com/yuyue31/Ceobe/post-images/1658379718557.png" alt="" loading="lazy"><br>
+<img src="https://github.com/yuyue31/Ceobe/post-images/1658379724856.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干员查询部分]]></title>
+        <id>https://github.com/yuyue31/Ceobe/post/gan-yuan-cha-xun-bu-fen（1）/</id>
+        <link href="https://github.com/yuyue31/Ceobe/post/gan-yuan-cha-xun-bu-fen（1）/">
+        </link>
+        <updated>2022-07-21T04:28:15.000Z</updated>
+        <content type="html"><![CDATA[<p>这些资料都来PRTS，我只是做了简单的收录，并没有人家大佬全，为了方便我只收集了以下部分，后续会逐步完善功能（可能会找大佬帮我画图，做成图片式的）📱<br>
+附上PRTS链接：https://prts.wiki/w/%E9%A6%96%E9%A1%B5</p>
+<p>1.干员画师✒️</p>
+<p>2.干员配音📼</p>
+<p>3.干员属性📃</p>
+<p>4.攻击范围🖇</p>
+<p>5.干员潜能🔍</p>
+<p>6.干员天赋🔖</p>
+<p>7.干员信物🔮</p>
+<p>8.基本信息📒</p>
+<p>9.悖论模拟📹</p>
+]]></content>
+    </entry>
+</feed>
